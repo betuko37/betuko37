@@ -10,10 +10,10 @@
 
 Desarrollador Full Stack con experiencia en crear soluciones web y móviles completas. Me especializo en desarrollar aplicaciones modernas, eficientes y escalables con arquitectura MVVM, enfocándome en mejores prácticas y código mantenible en múltiples plataformas.
 
-- 🔭 Actualmente trabajando con **Flutter (MVVM)** para mobile y **React + TypeScript + Material UI + Node.js + Express + Prisma + PostgreSQL** para web
-- 🌱 Profundizando en **arquitecturas de microservicios** y **desarrollo cross-platform**
+- 🔭 Actualmente trabajando con **Flutter (MVVM)** para mobile, **Shopify (Hydrogen + Oxygen)** y **React + TypeScript + Material UI + Node.js + Express + Prisma + PostgreSQL** para web
+- 💼 Experiencia en desarrollo de **CRM**, **sistemas de gestión agrícola**, **e-commerce** y **administración de inventarios**
 - 💡 Apasionado por **clean code**, **patrones de arquitectura**, **ORMs modernos** y **diseño de APIs RESTful**
-- 📱 Experiencia en desarrollo nativo con **Kotlin (Android)** y **Swift (iOS)**
+- 🔄 Especializado en **manejo de estado** en aplicaciones con herramientas como **Zustand** y **state management patterns**
 - 📍 Ubicado en **Hermosillo, Sonora, México**
 
 ---
@@ -28,6 +28,11 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+
+### E-commerce & Shopify
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Hydrogen](https://img.shields.io/badge/Hydrogen-6366F1?style=for-the-badge&logo=shopify&logoColor=white)
+![Oxygen](https://img.shields.io/badge/Oxygen-7C3AED?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -77,6 +82,12 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 
 ## 🎯 Experiencia Técnica
 
+### E-commerce & Shopify Development
+- 🛍️ Desarrollo de aplicaciones custom con **Shopify Hydrogen** (React framework)
+- ☁️ Deploy y hosting con **Oxygen** (Shopify's edge platform)
+- 🔌 Integración con **Shopify Storefront API** y **Admin API**
+- 🛠️ Uso de **Shopify CLI** para desarrollo y deployment
+
 ### Mobile Development
 - 📱 Desarrollo cross-platform con **Flutter** y **Dart**
 - 🏗️ Arquitectura **MVVM** para apps escalables y mantenibles
@@ -107,10 +118,8 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 
 ## 📫 Conecta Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/betuko37)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesus-alberto-zavala)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betorolitos37@gmail.com)
 
 ---
 
