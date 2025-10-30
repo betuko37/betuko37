@@ -10,7 +10,7 @@
 
 Desarrollador Full Stack con experiencia en crear soluciones web y móviles completas. Me especializo en desarrollar aplicaciones modernas, eficientes y escalables con arquitectura MVVM, enfocándome en mejores prácticas y código mantenible en múltiples plataformas.
 
-- 🔭 Actualmente trabajando con **Flutter (MVVM)** para mobile y **React + Material UI + Node.js + Express + Prisma + PostgreSQL** para web
+- 🔭 Actualmente trabajando con **Flutter (MVVM)** para mobile y **React + TypeScript + Material UI + Node.js + Express + Prisma + PostgreSQL** para web
 - 🌱 Profundizando en **arquitecturas de microservicios** y **desarrollo cross-platform**
 - 💡 Apasionado por **clean code**, **patrones de arquitectura**, **ORMs modernos** y **diseño de APIs RESTful**
 - 📱 Experiencia en desarrollo nativo con **Kotlin (Android)** y **Swift (iOS)**
@@ -23,10 +23,11 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -60,11 +61,8 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betuko37&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betuko37&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=betuko37&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betuko37&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" width="48%" />
 </div>
 
 ### 💻 Lenguajes Más Utilizados
@@ -88,6 +86,7 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 
 ### Frontend Development
 - ⚛️ Desarrollo de SPAs con **React** y **Vue.js**
+- 📘 Desarrollo type-safe con **TypeScript**
 - 🎨 Diseño de interfaces con **Material-UI**, **Tailwind CSS** y **Quasar**
 - 📱 Aplicaciones responsive y component-driven
 - 🔧 Integración con sistemas de plantillas como **MANTIS**
