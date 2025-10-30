@@ -38,7 +38,7 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/LARAVEL-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -77,46 +77,6 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 
 ---
 
-## 🏆 Logros y Contribuciones
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=betuko37&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
----
-
-## 📈 Actividad de Contribución
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=betuko37&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9)
-
----
-
-## 💼 Stack Actual
-
-```javascript
-const stackActual = {
-  mobile: ["Flutter", "MVVM Architecture", "Dart"],
-  web: {
-    frontend: ["React", "Material-UI"],
-    backend: ["Node.js", "Express"],
-    database: ["PostgreSQL"],
-    orm: ["Prisma"]
-  },
-  tools: ["Docker", "Postman", "DBeaver"]
-}
-```
-
----
-
-## 🌟 Proyectos Destacados
-
-<div align="center">
-
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=betuko37&repo=NOMBRE_REPO_1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/betuko37/NOMBRE_REPO_1)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=betuko37&repo=NOMBRE_REPO_2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/betuko37/NOMBRE_REPO_2)
-
-</div>
-
----
-
 ## 🎯 Experiencia Técnica
 
 ### Mobile Development
@@ -135,7 +95,7 @@ const stackActual = {
 ### Backend Development
 - 🚀 APIs RESTful con **Node.js + Express**
 - 🐍 Aplicaciones con **Flask** (Python)
-- 🔌 Desarrollo en **PHP** para proyectos legacy y modernos
+- 🔌 Desarrollo en **PHP** y **Laravel**
 - 🗃️ Manejo de ORMs: **Prisma** y **Sequelize**
 
 ### Base de Datos
@@ -152,16 +112,6 @@ const stackActual = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/betuko37)
-
----
-
-<div align="center">
-  
-### 💭 Quote del Día
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
