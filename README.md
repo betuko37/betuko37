@@ -125,9 +125,8 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 
 <div align="center">
   
-**"First, solve the problem. Then, write the code."** – John Johnson
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=betuko37.betuko37)
-![Profile Views](https://komarev.com/ghpvc/?username=betuko37&color=F85D7F&style=flat-square&label=Profile+Views)
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=betuko37.betuko37)
 
 </div>
