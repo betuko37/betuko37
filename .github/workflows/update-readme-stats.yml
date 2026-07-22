@@ -39,6 +39,30 @@ jobs:
           path: profile/pin-nfc-service.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Fix purple card backgrounds for GitHub rendering
+        run: |
+          python3 <<'PY'
+          fixes = {
+            "profile/stats.svg": ("467", "195", "194", "466"),
+            "profile/top-langs.svg": ("300", "190", "189", "299"),
+            "profile/pin-nfc-service.svg": ("400", "120", "119", "399"),
+          }
+          for path, (w, h, rh, rw) in fixes.items():
+            with open(path, encoding="utf-8") as f:
+              content = f.read()
+            marker = f'<rect width="{w}" height="{h}" fill="#1A0B2E"/>'
+            if marker not in content:
+              content = content.replace(
+                '        <rect\n          data-testid="card-bg"',
+                f'        {marker}\n        <rect\n          data-testid="card-bg"',
+                1,
+              )
+            content = content.replace('height="99%"', f'height="{rh}"')
+            content = content.replace('stroke="#e4e2e2"', 'stroke="#A855F7"')
+            with open(path, "w", encoding="utf-8") as f:
+              f.write(content)
+          PY
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

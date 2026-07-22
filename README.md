@@ -152,13 +152,13 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
+<img src="profile/stats.svg?v=purple1" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=betuko37&hide_border=true&background=1A0B2E&stroke=A855F7&ring=9333EA&fire=C084FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" height="165" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
-<img src="./profile/pin-nfc-service.svg" height="165" alt="Pinned nfc-service"/>
+<img src="profile/top-langs.svg?v=purple1" height="165" alt="Top Languages"/>
+<img src="profile/pin-nfc-service.svg?v=purple1" height="165" alt="Pinned nfc-service"/>
 
 </div>
 

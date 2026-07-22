@@ -52,13 +52,14 @@
 
         
 
+        <rect width="400" height="120" fill="#1A0B2E"/>
         <rect
           data-testid="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
-          height="99%"
-          stroke="#e4e2e2"
+          height="119"
+          stroke="#A855F7"
           width="399"
           fill="#1A0B2E"
           stroke-opacity="0"
