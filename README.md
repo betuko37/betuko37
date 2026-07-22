@@ -1,20 +1,113 @@
-# 👋 ¡Hola! Soy Jesus Zavala
+shopify son# 👋 ¡Hola! Soy Jesús Zavala
 
-### 💻 Desarrollador Full Stack | Web & Mobile
+### 💻 Full Stack Developer · Web · Mobile · E-commerce · IA aplicada
 
-> Construyendo aplicaciones web y móviles escalables con arquitecturas modernas y bases de datos robustas
+> Software Engineer 🇲🇽 — construyo soluciones web, móviles y cloud con enfoque en productos reales de negocio.
+
+**@JornalPro** · Hermosillo, Sonora, México
 
 ---
 
 ## 🚀 Sobre Mí
 
-Desarrollador Full Stack con experiencia en crear soluciones web y móviles completas. Me especializo en desarrollar aplicaciones modernas, eficientes y escalables con arquitectura MVVM, enfocándome en mejores prácticas y código mantenible en múltiples plataformas.
+Desarrollador Full Stack enfocado en **productos complejos**, no solo CRUDs. Me especializo en resolver problemas de dominio difícil: nómina agrícola, asistencia biométrica, fiscal México, tesorería, logística de empaque, e-commerce y automatización con IA.
 
-- 🔭 Actualmente trabajando con **Flutter (MVVM)** para mobile, **Shopify (Hydrogen + Oxygen)** y **React + TypeScript + Material UI + Node.js + Express + Prisma + PostgreSQL** para web
-- 💼 Experiencia en desarrollo de **CRM**, **sistemas de gestión agrícola**, **e-commerce** y **administración de inventarios**
-- 💡 Apasionado por **clean code**, **patrones de arquitectura**, **ORMs modernos** y **diseño de APIs RESTful**
-- 🔄 Especializado en **manejo de estado** en aplicaciones con herramientas como **Zustand** y **state management patterns**
-- 📍 Ubicado en **Hermosillo, Sonora, México**
+Actualmente trabajo en paralelo sobre **3 productos activos** que cubren distintas capas del negocio — todos en producción.
+
+---
+
+## 🎯 Mis productos activos
+
+### 🌐 Plataforma Web — ERP Agrícola *(privado)*
+Backoffice completo para gestión operativa y administrativa de empresas agrícolas:
+- Nómina semanal, asistencias, cuadrillas, cierre de semana y auditoría
+- Tesorería, cajas, movimientos y conciliación con facturas SAT
+- Empaque, pallets, embarques, manifiestos y logística de campo
+- Asistente IA integrado (WhatsApp + chat web)
+- Multi-empresa, multi-ubicación, RBAC por módulo
+
+**Stack:** React 18 · TypeScript · Vite · MUI · Zustand · SWR · Socket.IO · PWA
+
+---
+
+### 📱 App Móvil — Operaciones de campo *(privado)*
+App Flutter para personal en campo, diseñada para funcionar **sin señal constante**:
+- Registro de asistencias con **NFC y QR**
+- Sync offline-first con cola de eventos en background
+- Geolocalización, alta de empleados y operaciones de caja en campo
+- Logs remotos y sincronización automática al recuperar conexión
+
+**Stack:** Flutter · Dart · Riverpod · go_router · sqflite · WorkManager · NFC
+
+---
+
+### 🛍️ Tienda Online — Shopify
+E-commerce headless con experiencia de compra moderna:
+- Storefront custom con **Shopify Hydrogen** (React)
+- Deploy y hosting en **Oxygen** (edge de Shopify)
+- Integración con **Storefront API** y **Admin API**
+
+**Stack:** Hydrogen · React · TypeScript · Shopify CLI · Oxygen
+
+---
+
+## 🔥 En lo que estoy metido ahora
+
+Basado en mi actividad reciente en GitHub y en producción:
+
+| Foco | Qué estoy haciendo |
+|------|---------------------|
+| **NFC + Web** | Servicio REST local para lectores **ACR122U** que conecta tarjetas NFC con la plataforma web en tiempo real |
+| **Offline-first** | Paquete Flutter publicado en pub.dev — [`betuko_offline_sync`](https://pub.dev/packages/betuko_offline_sync) — con sync automático, background sync y reconexión |
+| **Biometría híbrida** | Integración **HikCentral** (facial) + persistencias NFC en campo desde la app móvil |
+| **Fiscal México** | Buzón SAT, descarga masiva de CFDI, parsing y conciliación con tesorería |
+| **IA operativa** | Asistente **Joni** multi-canal con Smart Router y tools sobre APIs internas |
+| **Real-time** | Socket.IO para buzón SAT, notificaciones y flujos en vivo |
+
+---
+
+## 📦 Repos públicos destacados
+
+[![nfc-service](https://img.shields.io/badge/nfc--service-NFC_+_Node.js-43853D?style=for-the-badge&logo=nfc&logoColor=white)](https://github.com/betuko37/nfc-service)
+[![online_offline](https://img.shields.io/badge/online__offline-Flutter_+_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/betuko37/online_offline)
+[![betuko_offline_sync](https://img.shields.io/badge/betuko__offline__sync-pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/betuko_offline_sync)
+
+| Repo | Descripción |
+|------|-------------|
+| [**nfc-service**](https://github.com/betuko37/nfc-service) | Servicio REST para lectores NFC ACR122U · instalador macOS · consola web en tiempo real · integración con React |
+| [**online_offline**](https://github.com/betuko37/online_offline) | Paquete offline-first para Flutter · sync manual/automático · background sync en Android · publicado en pub.dev |
+| [**sincronizacion_app**](https://github.com/betuko37/sincronizacion_app) | Prototipos y pruebas de sincronización móvil |
+| [**Chat-App-socket-React**](https://github.com/betuko37/Chat-App-socket-React) | Chat en tiempo real con Socket.IO |
+| [**lista-precios**](https://github.com/betuko37/lista-precios) | App web de lista de precios |
+
+> 💡 La mayor parte del ERP (web + backend + mobile en producción) vive en repos **privados** de [@JornalPro](https://github.com/JornalPro).
+
+---
+
+## 🌾 ERP Agrícola — Dominios que manejo
+
+| Área | Qué resuelve |
+|------|--------------|
+| **Nómina & asistencias** | Ciclos semanales, editor por empleado, cuadrillas, deducciones, cierre y auditoría |
+| **Biometría híbrida** | HikCentral (facial) + NFC/QR en app móvil de campo |
+| **Fiscal México (SAT/CFDI)** | Buzón SAT, descarga masiva, timbrado/cancelación, conciliación con tesorería |
+| **Tesorería** | Cajas, movimientos, transferencias, asignación de facturas a cajas de nómina |
+| **Empaque & logística** | Pallets, embarques, manifiestos, acarreo de campo |
+| **Compras & almacén** | Requisiciones, órdenes de compra, cotizaciones automatizadas |
+| **Joni (IA)** | Consultas operativas vía WhatsApp Business API y chat web |
+
+**Backend del ecosistema:** Express 5 · Prisma 7 · PostgreSQL · Zod · JWT + 2FA · Socket.IO · cron jobs · AWS S3
+
+---
+
+## 💡 Lo que me diferencia
+
+- 🧩 **Ecosistema completo** — web, mobile y e-commerce corriendo en paralelo
+- 📦 **Open source con impacto** — paquete Flutter publicado en pub.dev usado en producción
+- 🧠 **Dominio de negocio profundo** — nómina agrícola, fiscal México, empaque y logística
+- 📡 **Real-time & offline** — Socket.IO en web; sync offline en app móvil para campo sin señal
+- 🤖 **IA con propósito** — asistente operativo con tools reales, no chatbot genérico
+- 🔐 **Seguridad empresarial** — JWT, TOTP 2FA, RBAC multi-módulo, multi-empresa
 
 ---
 
@@ -28,6 +121,7 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### E-commerce & Shopify
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
@@ -63,6 +157,43 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 
 ---
 
+## 🎯 Experiencia Técnica
+
+### E-commerce & Shopify Development
+- 🛍️ Desarrollo de aplicaciones custom con **Shopify Hydrogen** (React framework)
+- ☁️ Deploy y hosting con **Oxygen** (Shopify's edge platform)
+- 🔌 Integración con **Shopify Storefront API** y **Admin API**
+- 🛠️ Uso de **Shopify CLI** para desarrollo y deployment
+
+### Mobile Development
+- 📱 Desarrollo cross-platform con **Flutter** y **Dart**
+- 🏗️ Arquitectura **Clean Architecture** + **Riverpod** para apps escalables
+- 📦 Paquete open source **betuko_offline_sync** publicado en pub.dev
+- 🤖 Desarrollo nativo Android con **Kotlin** · 🍎 iOS con **Swift**
+- 🔄 Offline-first, background sync, NFC y geolocalización en campo
+
+### Frontend Development
+- ⚛️ Desarrollo de SPAs con **React** y **Vue.js**
+- 📘 Desarrollo type-safe con **TypeScript**
+- 🎨 Diseño de interfaces con **Material-UI**, **Tailwind CSS** y **Quasar**
+- 📱 Aplicaciones responsive, PWA y component-driven
+- 🔧 Real-time con **Socket.IO** y manejo de estado con **Zustand**
+
+### Backend Development
+- 🚀 APIs RESTful con **Node.js + Express**
+- 🐍 Aplicaciones con **Flask** (Python)
+- 🔌 Desarrollo en **PHP** y **Laravel**
+- 🗃️ Manejo de ORMs: **Prisma** y **Sequelize**
+- ⏰ Cron jobs, webhooks, integraciones SAT/CFDI y WhatsApp Business API
+
+### Base de Datos
+- 🐘 **PostgreSQL** — base de datos relacional principal
+- 🐬 **MySQL** — gestión de datos relacionales
+- 🔥 **Firebase** — Backend as a Service y Realtime Database
+- 📊 Diseño de esquemas, optimización de queries y migraciones
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -80,52 +211,15 @@ Desarrollador Full Stack con experiencia en crear soluciones web y móviles comp
 
 ---
 
-## 🎯 Experiencia Técnica
-
-### E-commerce & Shopify Development
-- 🛍️ Desarrollo de aplicaciones custom con **Shopify Hydrogen** (React framework)
-- ☁️ Deploy y hosting con **Oxygen** (Shopify's edge platform)
-- 🔌 Integración con **Shopify Storefront API** y **Admin API**
-- 🛠️ Uso de **Shopify CLI** para desarrollo y deployment
-
-### Mobile Development
-- 📱 Desarrollo cross-platform con **Flutter** y **Dart**
-- 🏗️ Arquitectura **MVVM** para apps escalables y mantenibles
-- 🤖 Desarrollo nativo Android con **Kotlin**
-- 🍎 Desarrollo nativo iOS con **Swift**
-- 🔄 State management y gestión de ciclo de vida
-
-### Frontend Development
-- ⚛️ Desarrollo de SPAs con **React** y **Vue.js**
-- 📘 Desarrollo type-safe con **TypeScript**
-- 🎨 Diseño de interfaces con **Material-UI**, **Tailwind CSS** y **Quasar**
-- 📱 Aplicaciones responsive y component-driven
-- 🔧 Integración con sistemas de plantillas como **MANTIS**
-
-### Backend Development
-- 🚀 APIs RESTful con **Node.js + Express**
-- 🐍 Aplicaciones con **Flask** (Python)
-- 🔌 Desarrollo en **PHP** y **Laravel**
-- 🗃️ Manejo de ORMs: **Prisma** y **Sequelize**
-
-### Base de Datos
-- 🐘 **PostgreSQL** - Base de datos relacional principal
-- 🐬 **MySQL** - Gestión de datos relacionales
-- 🔥 **Firebase** - Backend as a Service y Realtime Database
-- 📊 Diseño de esquemas, optimización de queries y migraciones
-
----
-
 ## 📫 Conecta Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betuko35)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betorolitos37@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/betuko37)
 
 ---
 
 <div align="center">
-  
-
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=betuko37.betuko37)
 
