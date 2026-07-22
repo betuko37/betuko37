@@ -1,16 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jes%C3%BAs+Zavala+👋;Full+Stack+Developer;Web+%7C+Mobile+%7C+E-commerce+%7C+IA;Building+@JornalPro+🌾" alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C084FC&height=140&section=header&text=Jes%C3%BAs+Zavala&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Header wave"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Software_Engineer-🇲🇽-F85D7F?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/@JornalPro-ERP_Agrícola-4CAF50?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Hermosillo-Sonora-2196F3?style=for-the-badge&labelColor=0D1117" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jes%C3%BAs+Zavala+💜;Full+Stack+Developer;Web+%7C+Mobile+%7C+E-commerce+%7C+IA;Building+@JornalPro+🌾" alt="Typing intro" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Software_Engineer-🇲🇽-9333EA?style=for-the-badge&labelColor=1A0B2E&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/@JornalPro-ERP_Agrícola-A855F7?style=for-the-badge&labelColor=1A0B2E&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Hermosillo-Sonora-C084FC?style=for-the-badge&labelColor=1A0B2E&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Identidad-Morado+%26+Blanco-FFFFFF?style=for-the-badge&labelColor=6D28D9&logoColor=9333EA" />
 
 <br/><br/>
 
-> 🚀 Construyo soluciones web, móviles y cloud con enfoque en **productos reales de negocio**
+> 💜 Construyo soluciones web, móviles y cloud con enfoque en **productos reales de negocio**
 
 </div>
 
@@ -32,6 +37,7 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 <td width="35%" valign="top" align="center">
 
 ```text
+💜  Morado · Blanco
 🌐  Web ERP
 📱  App Mobile
 🛍️  Shopify Store
@@ -148,7 +154,7 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 <div align="center">
 
 <img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=betuko37&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=betuko37&hide_border=true&background=1A0B2E&stroke=A855F7&ring=9333EA&fire=C084FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" height="165" alt="GitHub Streak"/>
 
 <br/>
 
@@ -159,7 +165,7 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=betuko37&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=betuko37&bg_color=1A0B2E&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -243,39 +249,39 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 <td width="50%" valign="top">
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![React](https://img.shields.io/badge/React-9333EA?style=flat-square&logo=react&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-A855F7?style=flat-square&logo=typescript&logoColor=FFFFFF)
+![MUI](https://img.shields.io/badge/MUI-7C3AED?style=flat-square&logo=mui&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-6D28D9?style=flat-square&logo=vite&logoColor=FFFFFF)
+![Vue](https://img.shields.io/badge/Vue-9333EA?style=flat-square&logo=vue.js&logoColor=FFFFFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-A855F7?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
+![Quasar](https://img.shields.io/badge/Quasar-7C3AED?style=flat-square&logo=quasar&logoColor=FFFFFF)
 
 ### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-9333EA?style=flat-square&logo=flutter&logoColor=FFFFFF)
+![Dart](https://img.shields.io/badge/Dart-A855F7?style=flat-square&logo=dart&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/Kotlin-7C3AED?style=flat-square&logo=kotlin&logoColor=FFFFFF)
+![Swift](https://img.shields.io/badge/Swift-6D28D9?style=flat-square&logo=swift&logoColor=FFFFFF)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Backend & Datos
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-9333EA?style=flat-square&logo=node.js&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/Express-A855F7?style=flat-square&logo=express&logoColor=FFFFFF)
+![Prisma](https://img.shields.io/badge/Prisma-7C3AED?style=flat-square&logo=prisma&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-9333EA?style=flat-square&logo=python&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-A855F7?style=flat-square&logo=php&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/badge/Laravel-7C3AED?style=flat-square&logo=laravel&logoColor=FFFFFF)
 
 ### 🛍️ E-commerce & DevOps
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![Hydrogen](https://img.shields.io/badge/Hydrogen-6366F1?style=flat-square&logo=shopify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-9333EA?style=flat-square&logo=shopify&logoColor=FFFFFF)
+![Hydrogen](https://img.shields.io/badge/Hydrogen-A855F7?style=flat-square&logo=shopify&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=flat-square&logo=firebase&logoColor=FFFFFF)
+![Sequelize](https://img.shields.io/badge/Sequelize-9333EA?style=flat-square&logo=sequelize&logoColor=FFFFFF)
+![DBeaver](https://img.shields.io/badge/DBeaver-A855F7?style=flat-square&logo=dbeaver&logoColor=FFFFFF)
 
 </td>
 </tr>
@@ -346,14 +352,14 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betuko35)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betorolitos37@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/betuko37)
-[![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/betuko_offline_sync)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/betuko35)
+[![Email](https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:betorolitos37@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/betuko37)
+[![Pub.dev](https://img.shields.io/badge/Pub.dev-6D28D9?style=for-the-badge&logo=dart&logoColor=FFFFFF)](https://pub.dev/packages/betuko_offline_sync)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=betuko37&label=Visitas+al+perfil&color=F85D7F&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=betuko37&label=Visitas+al+perfil&color=9333EA&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -363,7 +369,7 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 ### ✨ Stack en rotación
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=500&color=F8D866&center=true&vCenter=true&width=780&lines=React+%2B+TypeScript+%2B+Node.js+%2B+Prisma;Flutter+%2B+Riverpod+%2B+Offline-first+%2B+NFC;Shopify+Hydrogen+%2B+SAT+%2B+WhatsApp+IA+%2B+Socket.IO" alt="Rotating tech stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=500&color=C084FC&center=true&vCenter=true&width=780&lines=React+%2B+TypeScript+%2B+Node.js+%2B+Prisma;Flutter+%2B+Riverpod+%2B+Offline-first+%2B+NFC;Shopify+Hydrogen+%2B+SAT+%2B+WhatsApp+IA+%2B+Socket.IO" alt="Rotating tech stack" />
 
 <br/><br/>
 
@@ -373,6 +379,6 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85D7F,50:F8D866,100:4CAF50&height=110&section=footer&text=Jes%C3%BAs+Zavala+%C2%B7+Full+Stack+%C2%B7+Hermosillo+%F0%9F%87%B2%F0%9F%87%BD&fontSize=20&fontColor=ffffff&animation=twinkling" alt="Animated footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C084FC&height=110&section=footer&text=Jes%C3%BAs+Zavala+%C2%B7+Full+Stack+%C2%B7+Morado+%26+Blanco+%F0%9F%92%9C&fontSize=20&fontColor=ffffff&animation=twinkling" alt="Animated footer wave"/>
 
 </div>
