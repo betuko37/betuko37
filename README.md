@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/betuko37/betuko37/main/profile/header-wave.png" width="100%" alt="Header wave"/>
+<img src="profile/header-wave.png" width="100%" alt="Header wave"/>
 
 <br/>
 
@@ -372,6 +372,6 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/betuko37/betuko37/main/profile/footer-wave.png" width="100%" alt="Footer wave"/>
+<img src="profile/footer-wave.png" width="100%" alt="Footer wave"/>
 
 </div>
