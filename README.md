@@ -361,10 +361,18 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 <div align="center">
 
-<sub>⚡ Hecho con dedicación desde Hermosillo, Sonora · México 🇲🇽</sub>
+### ✨ Stack en rotación
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=500&color=F8D866&center=true&vCenter=true&width=780&lines=React+%2B+TypeScript+%2B+Node.js+%2B+Prisma;Flutter+%2B+Riverpod+%2B+Offline-first+%2B+NFC;Shopify+Hydrogen+%2B+SAT+%2B+WhatsApp+IA+%2B+Socket.IO" alt="Rotating tech stack" />
 
 <br/><br/>
 
-<img src="./profile/github-contribution-grid-snake.svg" alt="Snake animation"/>
+### 🌃 Contribuciones en 3D
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D GitHub Contributions"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85D7F,50:F8D866,100:4CAF50&height=110&section=footer&text=Jes%C3%BAs+Zavala+%C2%B7+Full+Stack+%C2%B7+Hermosillo+%F0%9F%87%B2%F0%9F%87%BD&fontSize=20&fontColor=ffffff&animation=twinkling" alt="Animated footer wave"/>
 
 </div>
