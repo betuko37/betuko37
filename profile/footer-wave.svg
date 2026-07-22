@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 110" width="800" height="110" role="img" aria-label="Jesús Zavala · Full Stack · Hermosillo">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="50%" stop-color="#9333EA"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="110" fill="#1A0B2E"/>
+  <path d="M0,72 C140,32 260,98 400,58 C540,18 660,88 800,48 L800,110 L0,110 Z" fill="url(#footerGradient)" opacity="0.9"/>
+  <path d="M0,88 C190,58 310,102 500,72 C640,48 720,92 800,76 L800,110 L0,110 Z" fill="url(#footerGradient)" opacity="0.6"/>
+  <text x="400" y="44" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="600">Jesús Zavala · Full Stack · Hermosillo =œ</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="800" height="140" role="img" aria-label="Jesús Zavala">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="50%" stop-color="#9333EA"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="140" fill="#1A0B2E"/>
+  <path d="M0,95 C120,55 220,120 360,80 C500,40 620,110 800,70 L800,140 L0,140 Z" fill="url(#headerGradient)" opacity="0.85"/>
+  <path d="M0,110 C180,80 280,125 420,95 C560,65 680,115 800,90 L800,140 L0,140 Z" fill="url(#headerGradient)" opacity="0.55"/>
+  <text x="400" y="62" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700">Jesús Zavala</text>
+</svg>

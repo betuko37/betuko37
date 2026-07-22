@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C084FC&height=140&section=header&text=Jes%C3%BAs+Zavala&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Header wave"/>
+<img src="./profile/header-wave.svg" width="100%" alt="Header wave"/>
 
 <br/>
 
@@ -372,12 +372,6 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 <br/><br/>
 
-### 🌃 Contribuciones en 3D
-
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D GitHub Contributions"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C084FC&height=110&section=footer&text=Jes%C3%BAs+Zavala+%C2%B7+Full+Stack+%C2%B7+Morado+%26+Blanco+%F0%9F%92%9C&fontSize=20&fontColor=ffffff&animation=twinkling" alt="Animated footer wave"/>
+<img src="./profile/footer-wave.svg" width="100%" alt="Footer wave"/>
 
 </div>
