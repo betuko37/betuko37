@@ -365,6 +365,6 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/betuko37/betuko37/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="./profile/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
