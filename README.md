@@ -147,13 +147,13 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=betuko37&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true" height="165" alt="GitHub Stats"/>
+<img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=betuko37&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="165" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=betuko37&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&hide=html,css,scss&langs_count=8" height="165" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betuko37&theme=radical" height="165" alt="Profile Details"/>
+<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
+<img src="./profile/pin-nfc-service.svg" height="165" alt="Pinned nfc-service"/>
 
 </div>
 
