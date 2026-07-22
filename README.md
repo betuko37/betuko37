@@ -1,226 +1,370 @@
-shopify son# 👋 ¡Hola! Soy Jesús Zavala
+<div align="center">
 
-### 💻 Full Stack Developer · Web · Mobile · E-commerce · IA aplicada
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jes%C3%BAs+Zavala+👋;Full+Stack+Developer;Web+%7C+Mobile+%7C+E-commerce+%7C+IA;Building+@JornalPro+🌾" alt="Typing intro" />
 
-> Software Engineer 🇲🇽 — construyo soluciones web, móviles y cloud con enfoque en productos reales de negocio.
+<br/>
 
-**@JornalPro** · Hermosillo, Sonora, México
+<img src="https://img.shields.io/badge/Software_Engineer-🇲🇽-F85D7F?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/@JornalPro-ERP_Agrícola-4CAF50?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Hermosillo-Sonora-2196F3?style=for-the-badge&labelColor=0D1117" />
 
----
+<br/><br/>
 
-## 🚀 Sobre Mí
+> 🚀 Construyo soluciones web, móviles y cloud con enfoque en **productos reales de negocio**
 
-Desarrollador Full Stack enfocado en **productos complejos**, no solo CRUDs. Me especializo en resolver problemas de dominio difícil: nómina agrícola, asistencia biométrica, fiscal México, tesorería, logística de empaque, e-commerce y automatización con IA.
-
-Actualmente trabajo en paralelo sobre **3 productos activos** que cubren distintas capas del negocio — todos en producción.
-
----
-
-## 🎯 Mis productos activos
-
-### 🌐 Plataforma Web — ERP Agrícola *(privado)*
-Backoffice completo para gestión operativa y administrativa de empresas agrícolas:
-- Nómina semanal, asistencias, cuadrillas, cierre de semana y auditoría
-- Tesorería, cajas, movimientos y conciliación con facturas SAT
-- Empaque, pallets, embarques, manifiestos y logística de campo
-- Asistente IA integrado (WhatsApp + chat web)
-- Multi-empresa, multi-ubicación, RBAC por módulo
-
-**Stack:** React 18 · TypeScript · Vite · MUI · Zustand · SWR · Socket.IO · PWA
+</div>
 
 ---
 
-### 📱 App Móvil — Operaciones de campo *(privado)*
-App Flutter para personal en campo, diseñada para funcionar **sin señal constante**:
-- Registro de asistencias con **NFC y QR**
-- Sync offline-first con cola de eventos en background
-- Geolocalización, alta de empleados y operaciones de caja en campo
-- Logs remotos y sincronización automática al recuperar conexión
+## 👨‍💻 Sobre Mí
 
-**Stack:** Flutter · Dart · Riverpod · go_router · sqflite · WorkManager · NFC
+<table>
+<tr>
+<td width="65%" valign="top">
 
----
+Desarrollador **Full Stack** enfocado en productos complejos — no solo CRUDs.
 
-### 🛍️ Tienda Online — Shopify
-E-commerce headless con experiencia de compra moderna:
-- Storefront custom con **Shopify Hydrogen** (React)
-- Deploy y hosting en **Oxygen** (edge de Shopify)
-- Integración con **Storefront API** y **Admin API**
+Resuelvo problemas de dominio difícil: **nómina agrícola**, **biometría**, **fiscal México**, **tesorería**, **empaque**, **e-commerce** e **IA operativa**.
 
-**Stack:** Hydrogen · React · TypeScript · Shopify CLI · Oxygen
+Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
----
+</td>
+<td width="35%" valign="top" align="center">
 
-## 🔥 En lo que estoy metido ahora
+```text
+🌐  Web ERP
+📱  App Mobile
+🛍️  Shopify Store
+🤖  IA + WhatsApp
+📡  Real-time
+📴  Offline-first
+```
 
-Basado en mi actividad reciente en GitHub y en producción:
-
-| Foco | Qué estoy haciendo |
-|------|---------------------|
-| **NFC + Web** | Servicio REST local para lectores **ACR122U** que conecta tarjetas NFC con la plataforma web en tiempo real |
-| **Offline-first** | Paquete Flutter publicado en pub.dev — [`betuko_offline_sync`](https://pub.dev/packages/betuko_offline_sync) — con sync automático, background sync y reconexión |
-| **Biometría híbrida** | Integración **HikCentral** (facial) + persistencias NFC en campo desde la app móvil |
-| **Fiscal México** | Buzón SAT, descarga masiva de CFDI, parsing y conciliación con tesorería |
-| **IA operativa** | Asistente **Joni** multi-canal con Smart Router y tools sobre APIs internas |
-| **Real-time** | Socket.IO para buzón SAT, notificaciones y flujos en vivo |
+</td>
+</tr>
+</table>
 
 ---
 
-## 📦 Repos públicos destacados
+## 🎯 Productos Activos
 
-[![nfc-service](https://img.shields.io/badge/nfc--service-NFC_+_Node.js-43853D?style=for-the-badge&logo=nfc&logoColor=white)](https://github.com/betuko37/nfc-service)
-[![online_offline](https://img.shields.io/badge/online__offline-Flutter_+_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/betuko37/online_offline)
-[![betuko_offline_sync](https://img.shields.io/badge/betuko__offline__sync-pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/betuko_offline_sync)
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-| Repo | Descripción |
-|------|-------------|
-| [**nfc-service**](https://github.com/betuko37/nfc-service) | Servicio REST para lectores NFC ACR122U · instalador macOS · consola web en tiempo real · integración con React |
-| [**online_offline**](https://github.com/betuko37/online_offline) | Paquete offline-first para Flutter · sync manual/automático · background sync en Android · publicado en pub.dev |
-| [**sincronizacion_app**](https://github.com/betuko37/sincronizacion_app) | Prototipos y pruebas de sincronización móvil |
-| [**Chat-App-socket-React**](https://github.com/betuko37/Chat-App-socket-React) | Chat en tiempo real con Socket.IO |
-| [**lista-precios**](https://github.com/betuko37/lista-precios) | App web de lista de precios |
+### 🌐 Web ERP
+<sub>*(privado · @JornalPro)*</sub>
 
-> 💡 La mayor parte del ERP (web + backend + mobile en producción) vive en repos **privados** de [@JornalPro](https://github.com/JornalPro).
+<br/>
+
+📊 Nómina semanal  
+👥 Asistencias & cuadrillas  
+💰 Tesorería & cajas  
+📦 Empaque & logística  
+🧾 Buzón SAT / CFDI  
+🤖 Asistente IA Joni  
+
+<br/>
+
+`React` `TypeScript` `MUI` `Zustand` `Socket.IO` `PWA`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 📱 App Móvil
+<sub>*(privado · @JornalPro)*</sub>
+
+<br/>
+
+📴 Offline-first  
+🏷️ NFC & QR  
+📍 Geolocalización  
+🔄 Background sync  
+👤 Alta de empleados  
+📋 Operaciones de campo  
+
+<br/>
+
+`Flutter` `Riverpod` `sqflite` `WorkManager` `NFC`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🛍️ Tienda Shopify
+<sub>*(activa)*</sub>
+
+<br/>
+
+⚡ Hydrogen storefront  
+☁️ Deploy en Oxygen  
+🔌 Storefront API  
+🛒 Admin API  
+🎨 UX moderna  
+📈 Headless commerce  
+
+<br/>
+
+`Hydrogen` `React` `TypeScript` `Shopify CLI`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌾 ERP Agrícola — Dominios que manejo
+## 🔥 En lo que estoy metido
 
-| Área | Qué resuelve |
-|------|--------------|
-| **Nómina & asistencias** | Ciclos semanales, editor por empleado, cuadrillas, deducciones, cierre y auditoría |
-| **Biometría híbrida** | HikCentral (facial) + NFC/QR en app móvil de campo |
-| **Fiscal México (SAT/CFDI)** | Buzón SAT, descarga masiva, timbrado/cancelación, conciliación con tesorería |
-| **Tesorería** | Cajas, movimientos, transferencias, asignación de facturas a cajas de nómina |
-| **Empaque & logística** | Pallets, embarques, manifiestos, acarreo de campo |
-| **Compras & almacén** | Requisiciones, órdenes de compra, cotizaciones automatizadas |
-| **Joni (IA)** | Consultas operativas vía WhatsApp Business API y chat web |
+<table>
+<tr>
+<td align="center" width="20%">🏷️</td>
+<td><b>NFC + Web</b> — Servicio REST para lectores <b>ACR122U</b> conectando tarjetas NFC con la plataforma web en tiempo real</td>
+</tr>
+<tr>
+<td align="center">📦</td>
+<td><b>Offline-first</b> — Paquete Flutter <a href="https://pub.dev/packages/betuko_offline_sync"><b>betuko_offline_sync</b></a> publicado en pub.dev</td>
+</tr>
+<tr>
+<td align="center">👁️</td>
+<td><b>Biometría híbrida</b> — HikCentral (facial) + persistencias NFC en campo</td>
+</tr>
+<tr>
+<td align="center">🧾</td>
+<td><b>Fiscal México</b> — Buzón SAT, descarga masiva CFDI y conciliación con tesorería</td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><b>IA operativa Joni</b> — Smart Router multi-canal (WhatsApp + chat web)</td>
+</tr>
+<tr>
+<td align="center">📡</td>
+<td><b>Real-time</b> — Socket.IO para buzón SAT, notificaciones y flujos en vivo</td>
+</tr>
+</table>
 
-**Backend del ecosistema:** Express 5 · Prisma 7 · PostgreSQL · Zod · JWT + 2FA · Socket.IO · cron jobs · AWS S3
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=betuko37&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=betuko37&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="165" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betuko37&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&hide=html,css,scss&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-profile-trophy.vercel.app/?username=betuko37&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" height="165" alt="GitHub Trophies"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=betuko37&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area=true&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 📦 Repos Públicos Destacados
+
+<div align="center">
+
+| | Repo | Stack | Descripción |
+|:---:|:---|:---:|:---|
+| 🏷️ | [**nfc-service**](https://github.com/betuko37/nfc-service) | `Node.js` | Servicio REST NFC · ACR122U · instalador macOS · consola web |
+| 📴 | [**online_offline**](https://github.com/betuko37/online_offline) | `Flutter` | Paquete offline-first · sync automático · pub.dev |
+| 🔄 | [**sincronizacion_app**](https://github.com/betuko37/sincronizacion_app) | `Dart` | Prototipos de sincronización móvil |
+| 💬 | [**Chat-App-socket-React**](https://github.com/betuko37/Chat-App-socket-React) | `React` | Chat en tiempo real con Socket.IO |
+| 💲 | [**lista-precios**](https://github.com/betuko37/lista-precios) | `JS` | App web de lista de precios |
+
+<sub>💡 El ERP en producción (web + backend + mobile) vive en repos privados de <a href="https://github.com/JornalPro">@JornalPro</a></sub>
+
+</div>
+
+---
+
+## 🌾 Dominios del ERP *(privado)*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+| | Módulo |
+|:---:|:---|
+| 💼 | Nómina semanal & cierre de semana |
+| 👥 | Asistencias, cuadrillas & temporadas |
+| 👁️ | Biometría HikCentral + NFC en campo |
+| 🧾 | Buzón SAT · CFDI · timbrado |
+
+</td>
+<td width="50%" valign="top">
+
+| | Módulo |
+|:---:|:---|
+| 💰 | Tesorería · cajas · transferencias |
+| 📦 | Empaque · pallets · embarques |
+| 🛒 | Compras · requisiciones · almacén |
+| 🤖 | Joni IA · WhatsApp · chat web |
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💡 Lo que me diferencia
 
-- 🧩 **Ecosistema completo** — web, mobile y e-commerce corriendo en paralelo
-- 📦 **Open source con impacto** — paquete Flutter publicado en pub.dev usado en producción
-- 🧠 **Dominio de negocio profundo** — nómina agrícola, fiscal México, empaque y logística
-- 📡 **Real-time & offline** — Socket.IO en web; sync offline en app móvil para campo sin señal
-- 🤖 **IA con propósito** — asistente operativo con tools reales, no chatbot genérico
-- 🔐 **Seguridad empresarial** — JWT, TOTP 2FA, RBAC multi-módulo, multi-empresa
+<div align="center">
+
+| 🧩 Ecosistema completo | 📦 Open source con impacto | 🧠 Dominio de negocio |
+|:---:|:---:|:---:|
+| Web + Mobile + Shopify en paralelo | Paquete Flutter en pub.dev | Nómina · SAT · empaque · logística |
+
+| 📡 Real-time & offline | 🤖 IA con propósito | 🔐 Seguridad empresarial |
+|:---:|:---:|:---:|
+| Socket.IO + sync offline en campo | Tools reales sobre el ERP | JWT · 2FA · RBAC multi-módulo |
+
+</div>
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<div align="center">
 
-### E-commerce & Shopify
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Hydrogen](https://img.shields.io/badge/Hydrogen-6366F1?style=for-the-badge&logo=shopify&logoColor=white)
-![Oxygen](https://img.shields.io/badge/Oxygen-7C3AED?style=for-the-badge&logo=shopify&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,vue,flutter,dart,nodejs,express,postgres,prisma,mysql,python,php,laravel,docker,git,postman&perline=9" alt="Tech Stack Icons"/>
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<br/>
 
-### Bases de Datos & ORMs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Herramientas & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & Datos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### 🛍️ E-commerce & DevOps
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Hydrogen](https://img.shields.io/badge/Hydrogen-6366F1?style=flat-square&logo=shopify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Experiencia Técnica
 
-### E-commerce & Shopify Development
-- 🛍️ Desarrollo de aplicaciones custom con **Shopify Hydrogen** (React framework)
-- ☁️ Deploy y hosting con **Oxygen** (Shopify's edge platform)
-- 🔌 Integración con **Shopify Storefront API** y **Admin API**
-- 🛠️ Uso de **Shopify CLI** para desarrollo y deployment
+<details open>
+<summary><b>🛍️ E-commerce & Shopify</b></summary>
+<br/>
 
-### Mobile Development
-- 📱 Desarrollo cross-platform con **Flutter** y **Dart**
-- 🏗️ Arquitectura **Clean Architecture** + **Riverpod** para apps escalables
-- 📦 Paquete open source **betuko_offline_sync** publicado en pub.dev
-- 🤖 Desarrollo nativo Android con **Kotlin** · 🍎 iOS con **Swift**
-- 🔄 Offline-first, background sync, NFC y geolocalización en campo
+- 🛍️ Storefront custom con **Shopify Hydrogen**
+- ☁️ Deploy en **Oxygen** (edge de Shopify)
+- 🔌 **Storefront API** y **Admin API**
+- 🛠️ **Shopify CLI** para desarrollo y deployment
 
-### Frontend Development
-- ⚛️ Desarrollo de SPAs con **React** y **Vue.js**
-- 📘 Desarrollo type-safe con **TypeScript**
-- 🎨 Diseño de interfaces con **Material-UI**, **Tailwind CSS** y **Quasar**
-- 📱 Aplicaciones responsive, PWA y component-driven
-- 🔧 Real-time con **Socket.IO** y manejo de estado con **Zustand**
+</details>
 
-### Backend Development
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+<br/>
+
+- 📱 Cross-platform con **Flutter** y **Dart**
+- 🏗️ **Clean Architecture** + **Riverpod**
+- 📦 Paquete **betuko_offline_sync** en pub.dev
+- 🔄 Offline-first, background sync, **NFC** y geolocalización
+
+</details>
+
+<details>
+<summary><b>⚛️ Frontend Development</b></summary>
+<br/>
+
+- ⚛️ SPAs con **React** y **Vue.js**
+- 📘 Type-safe con **TypeScript**
+- 🎨 **MUI**, **Tailwind** y **Quasar**
+- 📡 Real-time con **Socket.IO** · estado con **Zustand**
+
+</details>
+
+<details>
+<summary><b>🚀 Backend Development</b></summary>
+<br/>
+
 - 🚀 APIs RESTful con **Node.js + Express**
-- 🐍 Aplicaciones con **Flask** (Python)
-- 🔌 Desarrollo en **PHP** y **Laravel**
-- 🗃️ Manejo de ORMs: **Prisma** y **Sequelize**
-- ⏰ Cron jobs, webhooks, integraciones SAT/CFDI y WhatsApp Business API
+- 🗃️ ORMs: **Prisma** y **Sequelize**
+- ⏰ Cron jobs, webhooks, SAT/CFDI y WhatsApp Business API
+- 🐍 **Flask** · 🔌 **PHP/Laravel**
 
-### Base de Datos
-- 🐘 **PostgreSQL** — base de datos relacional principal
-- 🐬 **MySQL** — gestión de datos relacionales
-- 🔥 **Firebase** — Backend as a Service y Realtime Database
-- 📊 Diseño de esquemas, optimización de queries y migraciones
+</details>
 
----
+<details>
+<summary><b>🗄️ Base de Datos</b></summary>
+<br/>
 
-## 📊 Estadísticas de GitHub
+- 🐘 **PostgreSQL** — base principal
+- 🐬 **MySQL** — datos relacionales
+- 🔥 **Firebase** — BaaS y Realtime Database
+- 📊 Esquemas, optimización de queries y migraciones
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betuko37&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betuko37&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" width="48%" />
-</div>
-
-### 💻 Lenguajes Más Utilizados
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betuko37&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&hide=html,css,scss&langs_count=8)
-
-</div>
+</details>
 
 ---
 
 ## 📫 Conecta Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betuko35)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betorolitos37@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betuko35)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betorolitos37@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/betuko37)
+[![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/betuko_offline_sync)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=betuko37&label=Visitas+al+perfil&color=F85D7F&style=for-the-badge" alt="Profile views"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=betuko37.betuko37)
+<sub>⚡ Hecho con dedicación desde Hermosillo, Sonora · México 🇲🇽</sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/betuko37/betuko37/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
