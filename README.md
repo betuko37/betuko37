@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Software_Engineer-🇲🇽-9333EA?style=for-the-badge&labelColor=1A0B2E&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/@JornalPro-ERP_Agrícola-A855F7?style=for-the-badge&labelColor=1A0B2E&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Hermosillo-Sonora-C084FC?style=for-the-badge&labelColor=1A0B2E&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Identidad-Morado+%26+Blanco-FFFFFF?style=for-the-badge&labelColor=6D28D9&logoColor=9333EA" />
 
 <br/><br/>
 
@@ -249,39 +248,39 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 <td width="50%" valign="top">
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-9333EA?style=flat-square&logo=react&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-A855F7?style=flat-square&logo=typescript&logoColor=FFFFFF)
-![MUI](https://img.shields.io/badge/MUI-7C3AED?style=flat-square&logo=mui&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-6D28D9?style=flat-square&logo=vite&logoColor=FFFFFF)
-![Vue](https://img.shields.io/badge/Vue-9333EA?style=flat-square&logo=vue.js&logoColor=FFFFFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-A855F7?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
-![Quasar](https://img.shields.io/badge/Quasar-7C3AED?style=flat-square&logo=quasar&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
 
 ### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-9333EA?style=flat-square&logo=flutter&logoColor=FFFFFF)
-![Dart](https://img.shields.io/badge/Dart-A855F7?style=flat-square&logo=dart&logoColor=FFFFFF)
-![Kotlin](https://img.shields.io/badge/Kotlin-7C3AED?style=flat-square&logo=kotlin&logoColor=FFFFFF)
-![Swift](https://img.shields.io/badge/Swift-6D28D9?style=flat-square&logo=swift&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Backend & Datos
-![Node.js](https://img.shields.io/badge/Node.js-9333EA?style=flat-square&logo=node.js&logoColor=FFFFFF)
-![Express](https://img.shields.io/badge/Express-A855F7?style=flat-square&logo=express&logoColor=FFFFFF)
-![Prisma](https://img.shields.io/badge/Prisma-7C3AED?style=flat-square&logo=prisma&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-9333EA?style=flat-square&logo=python&logoColor=FFFFFF)
-![PHP](https://img.shields.io/badge/PHP-A855F7?style=flat-square&logo=php&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/Laravel-7C3AED?style=flat-square&logo=laravel&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ### 🛍️ E-commerce & DevOps
-![Shopify](https://img.shields.io/badge/Shopify-9333EA?style=flat-square&logo=shopify&logoColor=FFFFFF)
-![Hydrogen](https://img.shields.io/badge/Hydrogen-A855F7?style=flat-square&logo=shopify&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=flat-square&logo=firebase&logoColor=FFFFFF)
-![Sequelize](https://img.shields.io/badge/Sequelize-9333EA?style=flat-square&logo=sequelize&logoColor=FFFFFF)
-![DBeaver](https://img.shields.io/badge/DBeaver-A855F7?style=flat-square&logo=dbeaver&logoColor=FFFFFF)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Hydrogen](https://img.shields.io/badge/Hydrogen-6366F1?style=flat-square&logo=shopify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 
 </td>
 </tr>
