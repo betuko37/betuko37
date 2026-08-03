@@ -58,7 +58,7 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 <td width="33%" align="center" valign="top">
 
 ### 🌐 Web ERP
-<sub>*(privado · @JornalPro)*</sub>
+<sub>*(privado · [@JornalPro](https://github.com/JornalPro))*</sub>
 
 <br/>
 
@@ -73,11 +73,32 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 `React` `TypeScript` `MUI` `Zustand` `Socket.IO` `PWA`
 
+<br/>
+
+<details>
+<summary><b>👁️ Vista previa</b></summary>
+<br/>
+
+<p>
+  <a href="profile/screenshots/jornalpro-web/preview-1.svg">
+    <img src="profile/screenshots/jornalpro-web/preview-1.svg" width="100%" alt="Web ERP preview 1"/>
+  </a>
+</p>
+<p>
+  <a href="profile/screenshots/jornalpro-web/preview-2.svg">
+    <img src="profile/screenshots/jornalpro-web/preview-2.svg" width="100%" alt="Web ERP preview 2"/>
+  </a>
+</p>
+
+<sub>🔒 Capturas sanitizadas · sin datos reales de clientes</sub>
+
+</details>
+
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 📱 App Móvil
-<sub>*(privado · @JornalPro)*</sub>
+<sub>*(privado · [@JornalPro](https://github.com/JornalPro))*</sub>
 
 <br/>
 
@@ -91,6 +112,26 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 <br/>
 
 `Flutter` `Riverpod` `sqflite` `WorkManager` `NFC`
+
+<br/>
+
+<details>
+<summary><b>👁️ Vista previa</b></summary>
+<br/>
+
+<p>
+  <a href="profile/screenshots/jornalpro-mobile/preview-1.svg">
+    <img src="profile/screenshots/jornalpro-mobile/preview-1.svg" width="46%" alt="App móvil preview 1"/>
+  </a>
+  &nbsp;
+  <a href="profile/screenshots/jornalpro-mobile/preview-2.svg">
+    <img src="profile/screenshots/jornalpro-mobile/preview-2.svg" width="46%" alt="App móvil preview 2"/>
+  </a>
+</p>
+
+<sub>🔒 Capturas sanitizadas · sin datos reales de campo</sub>
+
+</details>
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -110,6 +151,22 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 <br/>
 
 `Hydrogen` `React` `TypeScript` `Shopify CLI`
+
+<br/>
+
+<details>
+<summary><b>👁️ Vista previa</b></summary>
+<br/>
+
+<p>
+  <a href="profile/screenshots/shopify/preview-1.svg">
+    <img src="profile/screenshots/shopify/preview-1.svg" width="100%" alt="Shopify store preview"/>
+  </a>
+</p>
+
+<sub>🔒 Captura sanitizada · placeholder hasta screenshot real</sub>
+
+</details>
 
 </td>
 </tr>
@@ -148,42 +205,95 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 ---
 
-## 📊 Estadísticas
+## 📦 Repos Públicos Destacados
 
-<div align="center">
+### 🏷️ [nfc-service](https://github.com/betuko37/nfc-service)
+`Node.js` · Servicio REST NFC · ACR122U · instalador macOS · consola web
 
-<img src="profile/stats.svg?v=purple1" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=betuko37&hide_border=true&background=1A0B2E&stroke=A855F7&ring=9333EA&fire=C084FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" height="165" alt="GitHub Streak"/>
-
+<details>
+<summary><b>👁️ Vista previa</b></summary>
 <br/>
 
-<img src="profile/top-langs.svg?v=purple1" height="165" alt="Top Languages"/>
-<img src="profile/pin-nfc-service.svg?v=purple1" height="165" alt="Pinned nfc-service"/>
+<p align="center">
+  <a href="profile/screenshots/nfc-service/preview-1.svg">
+    <img src="profile/screenshots/nfc-service/preview-1.svg" width="720" alt="nfc-service preview"/>
+  </a>
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=betuko37&bg_color=1A0B2E&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
+</details>
 
 ---
 
-## 📦 Repos Públicos Destacados
+### 📴 [online_offline](https://github.com/betuko37/online_offline) · [pub.dev](https://pub.dev/packages/betuko_offline_sync)
+`Flutter` · Paquete offline-first · sync automático
+
+<details>
+<summary><b>👁️ Vista previa</b></summary>
+<br/>
+
+<p align="center">
+  <a href="profile/screenshots/online-offline/preview-1.svg">
+    <img src="profile/screenshots/online-offline/preview-1.svg" width="720" alt="online_offline preview"/>
+  </a>
+</p>
+
+</details>
+
+---
+
+### 🔄 [sincronizacion_app](https://github.com/betuko37/sincronizacion_app)
+`Dart` · Prototipos de sincronización móvil
+
+<details>
+<summary><b>👁️ Vista previa</b></summary>
+<br/>
+
+<p align="center">
+  <a href="profile/screenshots/sincronizacion-app/preview-1.svg">
+    <img src="profile/screenshots/sincronizacion-app/preview-1.svg" width="720" alt="sincronizacion_app preview"/>
+  </a>
+</p>
+
+</details>
+
+---
+
+### 💬 [Chat-App-socket-React](https://github.com/betuko37/Chat-App-socket-React)
+`React` · Chat en tiempo real con Socket.IO
+
+<details>
+<summary><b>👁️ Vista previa</b></summary>
+<br/>
+
+<p align="center">
+  <a href="profile/screenshots/chat-app/preview-1.svg">
+    <img src="profile/screenshots/chat-app/preview-1.svg" width="720" alt="Chat app preview"/>
+  </a>
+</p>
+
+</details>
+
+---
+
+### 💲 [lista-precios](https://github.com/betuko37/lista-precios)
+`JS` · App web de lista de precios
+
+<details>
+<summary><b>👁️ Vista previa</b></summary>
+<br/>
+
+<p align="center">
+  <a href="profile/screenshots/lista-precios/preview-1.svg">
+    <img src="profile/screenshots/lista-precios/preview-1.svg" width="720" alt="lista-precios preview"/>
+  </a>
+</p>
+
+</details>
+
+<br/>
 
 <div align="center">
-
-| | Repo | Stack | Descripción |
-|:---:|:---|:---:|:---|
-| 🏷️ | [**nfc-service**](https://github.com/betuko37/nfc-service) | `Node.js` | Servicio REST NFC · ACR122U · instalador macOS · consola web |
-| 📴 | [**online_offline**](https://github.com/betuko37/online_offline) | `Flutter` | Paquete offline-first · sync automático · pub.dev |
-| 🔄 | [**sincronizacion_app**](https://github.com/betuko37/sincronizacion_app) | `Dart` | Prototipos de sincronización móvil |
-| 💬 | [**Chat-App-socket-React**](https://github.com/betuko37/Chat-App-socket-React) | `React` | Chat en tiempo real con Socket.IO |
-| 💲 | [**lista-precios**](https://github.com/betuko37/lista-precios) | `JS` | App web de lista de precios |
-
 <sub>💡 El ERP en producción (web + backend + mobile) vive en repos privados de <a href="https://github.com/JornalPro">@JornalPro</a></sub>
-
 </div>
 
 ---
@@ -233,6 +343,28 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 ---
 
+## 📊 Estadísticas
+
+<div align="center">
+
+<img src="profile/stats.svg?v=purple1" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=betuko37&hide_border=true&background=1A0B2E&stroke=A855F7&ring=9333EA&fire=C084FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" height="165" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="profile/top-langs.svg?v=purple1" height="165" alt="Top Languages"/>
+<img src="profile/pin-nfc-service.svg?v=purple1" height="165" alt="Pinned nfc-service"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=betuko37&bg_color=1A0B2E&color=A855F7&line=C084FC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
@@ -254,13 +386,10 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -271,7 +400,6 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ### 🛍️ E-commerce & DevOps
@@ -279,69 +407,20 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 ![Hydrogen](https://img.shields.io/badge/Hydrogen-6366F1?style=flat-square&logo=shopify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
-
-## 🎯 Experiencia Técnica
-
-<details open>
-<summary><b>🛍️ E-commerce & Shopify</b></summary>
-<br/>
-
-- 🛍️ Storefront custom con **Shopify Hydrogen**
-- ☁️ Deploy en **Oxygen** (edge de Shopify)
-- 🔌 **Storefront API** y **Admin API**
-- 🛠️ **Shopify CLI** para desarrollo y deployment
-
-</details>
-
 <details>
-<summary><b>📱 Mobile Development</b></summary>
+<summary><b>📚 Experiencia técnica (detalle)</b></summary>
 <br/>
 
-- 📱 Cross-platform con **Flutter** y **Dart**
-- 🏗️ **Clean Architecture** + **Riverpod**
-- 📦 Paquete **betuko_offline_sync** en pub.dev
-- 🔄 Offline-first, background sync, **NFC** y geolocalización
-
-</details>
-
-<details>
-<summary><b>⚛️ Frontend Development</b></summary>
-<br/>
-
-- ⚛️ SPAs con **React** y **Vue.js**
-- 📘 Type-safe con **TypeScript**
-- 🎨 **MUI**, **Tailwind** y **Quasar**
-- 📡 Real-time con **Socket.IO** · estado con **Zustand**
-
-</details>
-
-<details>
-<summary><b>🚀 Backend Development</b></summary>
-<br/>
-
-- 🚀 APIs RESTful con **Node.js + Express**
-- 🗃️ ORMs: **Prisma** y **Sequelize**
-- ⏰ Cron jobs, webhooks, SAT/CFDI y WhatsApp Business API
-- 🐍 **Flask** · 🔌 **PHP/Laravel**
-
-</details>
-
-<details>
-<summary><b>🗄️ Base de Datos</b></summary>
-<br/>
-
-- 🐘 **PostgreSQL** — base principal
-- 🐬 **MySQL** — datos relacionales
-- 🔥 **Firebase** — BaaS y Realtime Database
-- 📊 Esquemas, optimización de queries y migraciones
+- 🛍️ **Shopify Hydrogen** + Oxygen + Storefront/Admin API
+- 📱 **Flutter** Clean Architecture + Riverpod + offline-first + NFC
+- ⚛️ **React/Vue** + TypeScript + MUI/Tailwind + Socket.IO + Zustand
+- 🚀 **Node.js/Express** + Prisma/Sequelize + cron/webhooks + WhatsApp Business API
+- 🗄️ **PostgreSQL / MySQL / Firebase** · esquemas, queries y migraciones
 
 </details>
 

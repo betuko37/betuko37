@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="840" viewBox="0 0 420 840">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A0B2E"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="840" rx="48" fill="#0F0720"/>
+  <rect x="18" y="18" width="384" height="804" rx="36" fill="url(#bg)"/>
+  <rect x="150" y="34" width="120" height="18" rx="9" fill="#000000" fill-opacity="0.45"/>
+  <rect x="48" y="90" width="324" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.1"/>
+  <rect x="48" y="168" width="324" height="180" rx="18" fill="#9333EA" fill-opacity="0.25" stroke="#C084FC" stroke-opacity="0.4"/>
+  <rect x="48" y="372" width="150" height="150" rx="18" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="222" y="372" width="150" height="150" rx="18" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="48" y="548" width="324" height="120" rx="18" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="70" y="720" width="280" height="54" rx="27" fill="#A855F7"/>
+  <text x="210" y="260" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">=ñ App Móvil</text>
+  <text x="210" y="300" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#C084FC">Offline · NFC · Sync</text>
+  <text x="210" y="754" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">Screenshot próximamente</text>
+</svg>
