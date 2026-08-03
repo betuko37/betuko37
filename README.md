@@ -73,27 +73,6 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 `React` `TypeScript` `MUI` `Zustand` `Socket.IO` `PWA`
 
-<br/>
-
-<details>
-<summary><b>👁️ Vista previa</b></summary>
-<br/>
-
-<p>
-  <a href="profile/screenshots/jornalpro-web/preview-1.svg">
-    <img src="profile/screenshots/jornalpro-web/preview-1.svg" width="100%" alt="Web ERP preview 1"/>
-  </a>
-</p>
-<p>
-  <a href="profile/screenshots/jornalpro-web/preview-2.svg">
-    <img src="profile/screenshots/jornalpro-web/preview-2.svg" width="100%" alt="Web ERP preview 2"/>
-  </a>
-</p>
-
-<sub>🔒 Capturas sanitizadas · sin datos reales de clientes</sub>
-
-</details>
-
 </td>
 <td width="33%" align="center" valign="top">
 
@@ -113,26 +92,6 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 `Flutter` `Riverpod` `sqflite` `WorkManager` `NFC`
 
-<br/>
-
-<details>
-<summary><b>👁️ Vista previa</b></summary>
-<br/>
-
-<p>
-  <a href="profile/screenshots/jornalpro-mobile/preview-1.svg">
-    <img src="profile/screenshots/jornalpro-mobile/preview-1.svg" width="46%" alt="App móvil preview 1"/>
-  </a>
-  &nbsp;
-  <a href="profile/screenshots/jornalpro-mobile/preview-2.svg">
-    <img src="profile/screenshots/jornalpro-mobile/preview-2.svg" width="46%" alt="App móvil preview 2"/>
-  </a>
-</p>
-
-<sub>🔒 Capturas sanitizadas · sin datos reales de campo</sub>
-
-</details>
-
 </td>
 <td width="33%" align="center" valign="top">
 
@@ -151,22 +110,6 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 <br/>
 
 `Hydrogen` `React` `TypeScript` `Shopify CLI`
-
-<br/>
-
-<details>
-<summary><b>👁️ Vista previa</b></summary>
-<br/>
-
-<p>
-  <a href="profile/screenshots/shopify/preview-1.svg">
-    <img src="profile/screenshots/shopify/preview-1.svg" width="100%" alt="Shopify store preview"/>
-  </a>
-</p>
-
-<sub>🔒 Captura sanitizada · placeholder hasta screenshot real</sub>
-
-</details>
 
 </td>
 </tr>
@@ -207,93 +150,18 @@ Actualmente trabajo en paralelo sobre **3 productos activos en producción**.
 
 ## 📦 Repos Públicos Destacados
 
-### 🏷️ [nfc-service](https://github.com/betuko37/nfc-service)
-`Node.js` · Servicio REST NFC · ACR122U · instalador macOS · consola web
-
-<details>
-<summary><b>👁️ Vista previa</b></summary>
-<br/>
-
-<p align="center">
-  <a href="profile/screenshots/nfc-service/preview-1.svg">
-    <img src="profile/screenshots/nfc-service/preview-1.svg" width="720" alt="nfc-service preview"/>
-  </a>
-</p>
-
-</details>
-
----
-
-### 📴 [online_offline](https://github.com/betuko37/online_offline) · [pub.dev](https://pub.dev/packages/betuko_offline_sync)
-`Flutter` · Paquete offline-first · sync automático
-
-<details>
-<summary><b>👁️ Vista previa</b></summary>
-<br/>
-
-<p align="center">
-  <a href="profile/screenshots/online-offline/preview-1.svg">
-    <img src="profile/screenshots/online-offline/preview-1.svg" width="720" alt="online_offline preview"/>
-  </a>
-</p>
-
-</details>
-
----
-
-### 🔄 [sincronizacion_app](https://github.com/betuko37/sincronizacion_app)
-`Dart` · Prototipos de sincronización móvil
-
-<details>
-<summary><b>👁️ Vista previa</b></summary>
-<br/>
-
-<p align="center">
-  <a href="profile/screenshots/sincronizacion-app/preview-1.svg">
-    <img src="profile/screenshots/sincronizacion-app/preview-1.svg" width="720" alt="sincronizacion_app preview"/>
-  </a>
-</p>
-
-</details>
-
----
-
-### 💬 [Chat-App-socket-React](https://github.com/betuko37/Chat-App-socket-React)
-`React` · Chat en tiempo real con Socket.IO
-
-<details>
-<summary><b>👁️ Vista previa</b></summary>
-<br/>
-
-<p align="center">
-  <a href="profile/screenshots/chat-app/preview-1.svg">
-    <img src="profile/screenshots/chat-app/preview-1.svg" width="720" alt="Chat app preview"/>
-  </a>
-</p>
-
-</details>
-
----
-
-### 💲 [lista-precios](https://github.com/betuko37/lista-precios)
-`JS` · App web de lista de precios
-
-<details>
-<summary><b>👁️ Vista previa</b></summary>
-<br/>
-
-<p align="center">
-  <a href="profile/screenshots/lista-precios/preview-1.svg">
-    <img src="profile/screenshots/lista-precios/preview-1.svg" width="720" alt="lista-precios preview"/>
-  </a>
-</p>
-
-</details>
-
-<br/>
-
 <div align="center">
+
+| | Repo | Stack | Descripción |
+|:---:|:---|:---:|:---|
+| 🏷️ | [**nfc-service**](https://github.com/betuko37/nfc-service) | `Node.js` | Servicio REST NFC · ACR122U · instalador macOS · consola web |
+| 📴 | [**online_offline**](https://github.com/betuko37/online_offline) | `Flutter` | Paquete offline-first · sync automático · pub.dev |
+| 🔄 | [**sincronizacion_app**](https://github.com/betuko37/sincronizacion_app) | `Dart` | Prototipos de sincronización móvil |
+| 💬 | [**Chat-App-socket-React**](https://github.com/betuko37/Chat-App-socket-React) | `React` | Chat en tiempo real con Socket.IO |
+| 💲 | [**lista-precios**](https://github.com/betuko37/lista-precios) | `JS` | App web de lista de precios |
+
 <sub>💡 El ERP en producción (web + backend + mobile) vive en repos privados de <a href="https://github.com/JornalPro">@JornalPro</a></sub>
+
 </div>
 
 ---
