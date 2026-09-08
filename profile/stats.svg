@@ -78,6 +78,7 @@
     }
   
   
+          
 
           
       /* Animations */
@@ -102,10 +103,16 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect width="467" height="195" fill="#1A0B2E"/>
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
